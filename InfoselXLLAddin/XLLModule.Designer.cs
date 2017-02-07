@@ -137,6 +137,8 @@
             this.adxExcelFunctionDescriptor7.FunctionName = "IQL_ArregloMas";
             this.adxExcelFunctionDescriptor7.ParameterDescriptors.Add(this.adxExcelParameterDescriptor12);
             this.adxExcelFunctionDescriptor7.ParameterDescriptors.Add(this.adxExcelParameterDescriptor13);
+
+
             // 
             // adxExcelParameterDescriptor12
             // 
