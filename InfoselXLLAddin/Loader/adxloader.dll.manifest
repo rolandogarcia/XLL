@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <assemblyIdentity name="InfoselXLLAddin, PublicKeyToken=619af48491d570b2" xllClass="InfoselXLLAddin.XLLModule" imageRuntimeVersion="v4.0.30319" />
+  <loaderSettings generateLogFile="true" shadowCopyEnabled="false" privileges="user" />
+</configuration>
